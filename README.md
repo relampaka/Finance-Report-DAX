@@ -20,4 +20,3 @@ Total Units Sold = SUM(financials[Units Sold])
  Create a calendar table with all dates between January 1st 2013 and December 31st 2014
 Calendar = CALENDAR(DATE(2013,01,01),Date(2014,12,31))    
 
-Translated with www.DeepL.com/Translator (free version)
